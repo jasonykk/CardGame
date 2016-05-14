@@ -1,0 +1,12 @@
+Deck:
+- 52 cards
+- Diamond (D), Club (C), Heart (H), Spade (S)
+
+
+GameTypes:
+- Poker
+- Big2
+
+AI:
+- Is this needed?
+- Should this be based on and within GameTypes?
